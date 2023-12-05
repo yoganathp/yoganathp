@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+I'm [Yoganath P](https://yoganath.me), a 2023 graduate with a B. Tech in Electronics and Communication Engineering. 🎓 My passion lies in exploring the vast applications of embedded systems in the real world.
+
+Throughout my academic journey, I've delved into numerous projects, acquiring valuable hands-on experience with microcontrollers. 🛠️ These experiences have fueled my curiosity and deepened my understanding of the field.
+
+During my spare time, you'll find me immersed in studying and sharing my insights about embedded systems on my blog. 📘
+
+Curious to know more about me or want to get in touch? Feel free to explore [here](https://yoganath.me). 🌐
 
 <!--
 **yoganathp/yoganathp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
